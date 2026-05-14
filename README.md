@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋, I'm Prayag Gangil
 
-<!--
-**prayaggangil/prayaggangil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 Student & Aspiring Developer  
+💻 Passionate about Programming, Software Development, and Technology  
+📚 Currently improving my skills in Java, Python, C++, and Web Development  
+⚡ Interested in Problem Solving, Open Source, and Building Creative Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- C
+- C++
+
+### Learning & Exploring
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub
+- Web Development
+- Software Engineering
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prayaggangil&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayaggangil&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prayag-gangil-155927300?trk=contact-info" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Prayag%20Gangil-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
+
+---
+
+## 🎯 Goals
+- Improve problem-solving skills  
+- Build impactful projects  
+- Contribute to open source  
+- Become a skilled software developer  
+
+---
+
+## ✨ Quote
+> "Consistency beats talent when talent doesn't work hard."
